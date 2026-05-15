@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=uditT&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 #
 # 🔝 Founder Of :
-[![🕸Website](https://img.shields.io/badge/🕸Website-%013220.svg?)](https://www.yuvahub.xyz/)<br/>
+[![🕸YuvaHub](https://img.shields.io/badge/🕸YuvaHub-%000000.svg?)](https://www.yuvahub.xyz/)<br/>
 #
 # 📚 Book Made by me : <br/>
 [![Python Projects source code for beginners Paperback  ](https://img.shields.io/badge/Book–-%013220.svg?)](https://amzn.in/d/08kXInh4) <br/>
